@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../../Form Login"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "img"
+  }
+}
